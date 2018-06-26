@@ -1,3 +1,7 @@
+### 2018
+
+- *Sequencing 5‐hydroxymethyluracil at single‐base resolution*: [manuscript](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201804046), [code](https://github.com/sblab-bioinformatics/5hmUseq)
+
 ### 2017
 
 - *5-formylcytosine controls nucleosome positioning through covalent histone-DNA interaction*: [manuscript](https://www.biorxiv.org/content/early/2017/11/24/224444), [code](https://github.com/sblab-bioinformatics/5fC-nucleosome)
