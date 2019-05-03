@@ -1,5 +1,7 @@
 ### 2018
 
+- *5-Formylcytosine organizes nucleosomes and forms Schiff base interactions with histones in mouse embryonic stem cells*: [manuscript](https://www.nature.com/articles/s41557-018-0149-x), [code](https://github.com/sblab-bioinformatics/5fC-nucleosome)
+
 - *DNA G-quadruplex structures mold the DNA methylome*: [manuscript](https://www.nature.com/articles/s41594-018-0131-8), [code](https://github.com/sblab-bioinformatics/dna-g4-methylation-dnmt1)
 
 - *Sequencing 5‐hydroxymethyluracil at single‐base resolution*: [manuscript](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201804046), [code](https://github.com/sblab-bioinformatics/5hmUseq)
